@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084669010942",
+    "project_id": "budget-tracker-143b4",
+    "storage_bucket": "budget-tracker-143b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084669010942:android:749655c53dff39754c56af",
+        "android_client_info": {
+          "package_name": "com.example.budgettracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGw5rAPGpx5MmuLGt3opifVj-RAFYBmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

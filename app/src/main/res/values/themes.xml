@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ✅ Base application theme using Material3 -->
+    <style name="Theme.BudgetTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your primary app colors -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <!-- Optional: Control activated elements (e.g., switches, checkboxes) -->
+        <item name="colorControlActivated">@color/green</item>
+
+        <!-- Ensure Material components use correct styles -->
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+        <item name="editTextStyle">@style/Widget.Material3.TextInputEditText.OutlinedBox</item>
+    </style>
+
+    <!-- ✅ Splash Screen theme updated to Material3 -->
+    <style name="Theme.BudgetTracker.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+    
+    <!-- Bottom Navigation Active Indicator Style -->
+    <style name="App.BottomNavigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/purple_200</item>
+        <item name="android:width">64dp</item>
+        <item name="android:height">32dp</item>
+    </style>
+
+</resources>

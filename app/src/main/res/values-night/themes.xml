@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/black</item> <!-- Background color -->
+        <item name="android:statusBarColor">@color/black</item> <!-- Status bar color -->
+    </style>
+</resources>
