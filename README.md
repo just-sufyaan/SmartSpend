@@ -10,6 +10,11 @@
 
 **BudgetTracker** is a modern, cloud-powered Android app that helps users take control of their finances. With a beautiful, animated UI and seamless Firebase integration, it makes tracking expenses, setting goals, and celebrating achievements easy and fun.
 
+## 🎥 Demo Video
+
+Watch the full demo here:  
+https://youtu.be/uzQuLeSQ4PA
+
 > **Note:** This app is designed for light mode only and is not optimized for dark mode.
 
 ---
